@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phonebook</string>
+    <string name="lblTitle">Add New Contact</string>
+    <string name="lblFirstname">Firstname</string>
+    <string name="lblLastname">Lastname</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblCellphoneNumber">Cellphone Number</string>
+    <string name="lblHomeAddress">Home Address</string>
+    <string name="btnCreate">Create</string>
+    <string name="btnView">ViewList</string>
+    <string name="tvSqlInfo">SqlInfo</string>
+</resources>
